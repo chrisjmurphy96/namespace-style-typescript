@@ -1,0 +1,17 @@
+{
+    "compileOnSave": true,
+    "compilerOptions": {
+        "allowJs": true,
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "moduleResolution": "classic",
+        "target": "es5",
+        "outFile": "./dist/app.js"
+    },
+    "include": [
+        "./src/**/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

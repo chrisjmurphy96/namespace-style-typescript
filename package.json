@@ -1,0 +1,10 @@
+{
+    "devDependencies": {
+        "tsc": "^1.20150623.0"
+    },
+    "dependencies": {
+        "@types/angular": "^1.6.56",
+        "angular": "^1.7.8",
+        "typescript": "^3.6.3"
+    }
+}
